@@ -18,6 +18,6 @@ int main()
 
     par B;
     B = A;
-    cout<<B.a;
+    cout<<B.a<<endl;
     return 0;
 }
